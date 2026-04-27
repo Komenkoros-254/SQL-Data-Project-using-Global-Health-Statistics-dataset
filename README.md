@@ -59,7 +59,7 @@ Each row typically represents a **country–year–disease–demographic** combi
 
 - **`README.md`** – This overview document.
 - **`sql_queries.sql`** – Curated SQL queries for exploring and analyzing the dataset.
-  - `data/` – Folder for CSV / SQL dump of `global_health_statistics`.  
+  - `data/` – Link to download the dataset `global_health_statistics`.  
   
 
 ---
